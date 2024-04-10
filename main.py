@@ -12,7 +12,7 @@ while hi == True:
     hi = False
   
 if value == 1000000 and hi == False:
-  print("Your food is done cooking!")
+  print(f"Your food is done cooking! ({value)")
   option = input("Continue Counting/Cooking y/n: ")
 
   if option == 'yes' or 'Yes' or 'YES' or 'Y' or 'y':
