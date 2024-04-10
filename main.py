@@ -8,10 +8,10 @@ hi = True
 while hi == True:
   print(f"{value}.")
   value += 1
+  if value == 1000000
+    hi = False
   
-  
-if value == 1000000:
-  hi = False
+if value == 1000000 and hi == False:
   print("Your food is done cooking!")
   option = input("Continue Counting/Cooking y/n: ")
 
