@@ -8,7 +8,7 @@ hi = True
 while hi == True:
   print(f"{value}.")
   value += 1
-  if value == 1000000
+  if value == 1000000:
     hi = False
   
 if value == 1000000 and hi == False:
