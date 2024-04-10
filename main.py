@@ -21,7 +21,7 @@ if value == 1000000 and hi == False:
       while True:
         print(f"{value}.")
         value += 1
-elif option == 'no' or 'No' or 'NO' or 'N' or 'n' and while_cooking = False:
+elif option == 'no' or 'No' or 'NO' or 'N' or 'n' and while_cooking == False:
   print("Done!")
   hi = False
   
