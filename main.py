@@ -15,5 +15,5 @@ while True:
       while True:
         print(f"{value}.")
         value += 1
-    elif option == 'no' or 'No' or 'NO' or 'N' or 'n'
+    elif option == 'no' or 'No' or 'NO' or 'N' or 'n':
         print("Done!")
